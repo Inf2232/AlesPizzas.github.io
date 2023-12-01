@@ -30,7 +30,7 @@ nav ul{
     display: flex;
     justify-content: center;
     flex-direction: row;
-    column-gap: 20%;
+    column-gap: 10%;
     
 }
 
